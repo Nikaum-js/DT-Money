@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento do site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1400,
+      "createdAt": "2023-06-29T12:52:23.000Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-06-29T15:52:23.000Z"
+    },
+    {
+      "description": "Teste",
+      "createdAt": "2023-07-12T16:27:02.891Z",
+      "category": "Batata",
+      "price": 1222,
+      "type": "outcome",
+      "id": 3
+    },
+    {
+      "description": "Teste",
+      "createdAt": "2023-07-12T16:27:06.388Z",
+      "category": "Batata",
+      "price": 122,
+      "type": "outcome",
+      "id": 4
+    },
+    {
+      "description": "Batata",
+      "createdAt": "2023-07-12T16:29:38.106Z",
+      "category": "Vegetal",
+      "price": 20,
+      "type": "outcome",
+      "id": 5
+    },
+    {
+      "description": "Salario",
+      "category": "dinheiro",
+      "price": 7000,
+      "type": "income",
+      "createdAt": "2023-07-12T16:58:20.121Z",
+      "id": 6
+    },
+    {
+      "description": "Batata",
+      "category": "Vegetal",
+      "price": 2,
+      "type": "outcome",
+      "createdAt": "2023-07-12T18:52:28.463Z",
+      "id": 7
+    }
+  ]
+}
